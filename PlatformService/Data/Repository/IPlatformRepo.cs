@@ -1,3 +1,5 @@
+using PlatformService.Models;
+
 namespace PlatformService.Data.Repository
 {
     public interface IPlatformRepo

@@ -28,3 +28,5 @@
 /.vs/VSWorkspaceState.json
 /PlatformService/.vs/PlatformService
 /PlatformService/obj/Debug/net9.0
+/PlatformService/bin/Debug/net9.0
+/PlatformService/.vs/ProjectEvaluation
