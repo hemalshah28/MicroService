@@ -3,7 +3,6 @@
 ################################################################################
 
 /.vs/MicroServices/CopilotIndices/17.12.53.23981
-/PlatformService/Data/AppDbContext.cs
 /PlatformService/obj/Release/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
 /PlatformService/obj/PlatformService.csproj.nuget.dgspec.json
 /PlatformService/obj/PlatformService.csproj.nuget.g.props
@@ -27,3 +26,5 @@
 /.vs/slnx.sqlite
 /.vs/slnx.sqlite-journal
 /.vs/VSWorkspaceState.json
+/PlatformService/.vs/PlatformService
+/PlatformService/obj/Debug/net9.0
